@@ -1,7 +1,6 @@
 
 ### Hello 🙃, my name is Conper 😄.<br>
 ### I am currently a high school student 🤓. In my free time I love programming. 💻<br>
-### Languages I use: <b>Python</b> and <b>C++</b>.<br>
 ### I would like one day to get to work as a programmer. 👨‍💻💼
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Conper&show_icons=true)
@@ -15,9 +14,3 @@
 
 ### 4 IN A ROW
 <a href="https://github.com/Conper/4-in-a-row">![01](https://user-images.githubusercontent.com/79358509/216775342-6a2b043c-7f71-45b2-a5e5-8f9a4cd0c80d.gif)</a>
-
-<br><br>
-
-## ➡LINKS:
-### [Reddit](https://www.reddit.com/user/_Conper)
-### [StackOverflow](https://stackoverflow.com/users/20920595/conper)
