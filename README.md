@@ -14,7 +14,7 @@
 <br>
 
 ### 4 IN A ROW
-<a href="https://github.com/Conper/TicTacToe">![01](https://user-images.githubusercontent.com/79358509/216775342-6a2b043c-7f71-45b2-a5e5-8f9a4cd0c80d.gif)</a>
+<a href="https://github.com/Conper/4-in-a-row">![01](https://user-images.githubusercontent.com/79358509/216775342-6a2b043c-7f71-45b2-a5e5-8f9a4cd0c80d.gif)</a>
 
 <br><br>
 
