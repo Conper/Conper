@@ -4,6 +4,8 @@
 ### Languages I use: <b>Python</b> and <b>C++</b>.<br>
 ### I would like one day to get to work as a programmer. 👨‍💻💼
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Conper&theme=blue-green)
+
 # <div align="center">My games:</div>
 
 ### Tic Tac Toe
