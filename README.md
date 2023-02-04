@@ -19,5 +19,5 @@
 <br><br>
 
 ## ➡LINKS:
-### [REDDIT](https://www.reddit.com/user/_Conper)
+### [Reddit](https://www.reddit.com/user/_Conper)
 ### [StackOverflow](https://stackoverflow.com/users/20920595/conper)
