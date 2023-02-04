@@ -1,6 +1,6 @@
 
-### Hello 🙃, my name is Conper 😄.<br>
-### I am currently a high school student 🤓. In my free time I love programming. 💻<br>
+### Hello, my name is Conper.<br>
+### I am currently a high school student. In my free time I love programming. 💻<br>
 ### I would like one day to get to work as a programmer. 👨‍💻💼
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Conper&show_icons=true)
