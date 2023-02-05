@@ -13,5 +13,5 @@
 <br><i>Click on the image to go to the repository</i>
 
 ### 4 IN A ROW
-<a href="https://github.com/Conper/4-in-a-row">![01](https://user-images.githubusercontent.com/79358509/216775342-6a2b043c-7f71-45b2-a5e5-8f9a4cd0c80d.gif)</a>
+<a href="https://github.com/Conper/4-in-a-row">![v1 1](https://user-images.githubusercontent.com/79358509/216830206-cea6d455-26cf-4a01-ba97-19cfeb8c71f7.gif)</a>
 <br><i>Click on the image to go to the repository</i>
