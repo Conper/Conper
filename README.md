@@ -3,8 +3,8 @@
 ### I'm currently a high school student. In my free time I love programming. 💻<br>
 ### I would like one day to get to work as a programmer. 👨‍💻💼
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Conper&show_icons=true)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Conper&theme=blue-green)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Conper&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Conper&langs_count=5&theme=tokyonight)]()
 
 # <div align="center">My games:</div>
 
