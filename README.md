@@ -17,5 +17,5 @@
 <br><i>Click on the image to go to the repository</i>
 
 ### Tic Tac Tor for Android
-<a href="https://github.com/Conper/TicTacToe-App">![game](https://github.com/Conper/Conper/assets/79358509/f9d87f51-1849-4385-b0ae-8b51bb314baf)</a>
+<a href="https://github.com/Conper/TicTacToe-App">![game](https://github.com/Conper/Conper/blob/main/tictactoe.gif)</a>
 <br><i>Click on the image to go to the repository</i>
