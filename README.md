@@ -1,9 +1,8 @@
 
 ### Hello, I'm Conper.<br>
-### I'm currently a high school student. In my free time I love programming. 💻<br>
-### I would like one day to get to work as a programmer. 👨‍💻💼
+### I'm currently a high school student. 💻<br>
+### I would like to one day work in the cybersecurity area.. 👨‍💻💼
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Conper&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Conper&langs_count=5&theme=tokyonight)]()
 
 # <div align="center">My games:</div>
