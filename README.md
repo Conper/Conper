@@ -16,7 +16,7 @@
 <br><i>Click on the image to go to the repository</i>
 
 ### Tic Tac Toe WEB version
-<a href="https://github.com/Conper/Tic-Tac-Toe-Web">![tictactoeimg](https://github.com/Conper/Conper/assets/79358509/99a9c4db-0ea8-4466-9304-dbf86a52a5f0)</a>
+<a href="https://github.com/Conper/Tic-Tac-Toe-Web">![tictactoeimg](https://github.com/Conper/Conper/blob/main/tictactoeimg.png)</a>
 <br><i>Click on the image to go to the repository</i>
 
 ### 4 IN A ROW
