@@ -7,7 +7,7 @@
 
 # <div align="center">My projects:</div>
 
-### Tic Tac Tor for Android
+### Tic Tac Toe for Android
 <a href="https://github.com/Conper/TicTacToe-App">![game](https://github.com/Conper/Conper/blob/main/tictactoe.gif)</a>
 <br><i>Click on the image to go to the repository</i>
 
