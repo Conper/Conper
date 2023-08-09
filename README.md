@@ -15,8 +15,8 @@
 <a href="https://github.com/Conper/Opened-Ports">![Oports](https://github.com/Conper/Conper/blob/main/oports.png)</a>
 <br><i>Click on the image to go to the repository</i>
 
-### Tic Tac Toe
-<a href="https://github.com/Conper/TicTacToe">![3inARow](https://user-images.githubusercontent.com/79358509/216775239-3f9099a1-1204-40f2-a248-a1003d285ecd.gif)</a>
+### Tic Tac Toe WEB version
+<a href="https://github.com/Conper/Tic-Tac-Toe-Web">![tictactoeimg](https://github.com/Conper/Conper/assets/79358509/99a9c4db-0ea8-4466-9304-dbf86a52a5f0)</a>
 <br><i>Click on the image to go to the repository</i>
 
 ### 4 IN A ROW
