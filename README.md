@@ -3,8 +3,6 @@
 ### I'm currently a student. 💻<br>
 ### I would like to one day work in the cybersecurity area. 👨‍💻💼
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Conper&langs_count=5&theme=tokyonight)]()
-
 # <div align="center">My projects:</div>
 
 ### Opened-Ports
