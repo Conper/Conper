@@ -5,12 +5,16 @@
 
 # <div align="center">My projects:</div>
 
-### Opened-Ports
-<a href="https://github.com/Conper/Opened-Ports">![Oports](https://github.com/Conper/Conper/blob/main/oports.png)</a>
+### CTF Challenges
+<a href="https://github.com/Conper/CTF-Challenges"><img src="https://github.com/Conper/Conper/blob/main/ctfchallenges.png" alt="CTF Challenges" width="45%"/></a>
 <br><i>Click on the image to go to the repository</i>
 
 ### Buffer Overflow
-<a href="https://github.com/Conper/BufferOverflow">![BufferOverflow](https://github.com/Conper/Conper/blob/main/buof.png)</a>
+<a href="https://github.com/Conper/BufferOverflow"><img src="https://github.com/Conper/Conper/blob/main/buof.png" alt="Buffer Overflow" width="40%"/></a>
+<br><i>Click on the image to go to the repository</i>
+
+### Opened-Ports
+<a href="https://github.com/Conper/Opened-Ports"><img src="https://github.com/Conper/Conper/blob/main/oports.png" alt="Opened-Ports" width="55%"/></a>
 <br><i>Click on the image to go to the repository</i>
 
 ### Tic Tac Toe for Android
