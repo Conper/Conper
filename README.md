@@ -5,22 +5,26 @@
 
 # <div align="center">My projects:</div>
 
-### CTF Challenges
-<a href="https://github.com/Conper/CTF-Challenges"><img src="https://github.com/Conper/Conper/blob/main/ctfchallenges.png" alt="CTF Challenges" width="45%"/></a>
-<br><i>Click on the image to go to the repository</i>
+<div style="text-align: center;">
 
-### Buffer Overflow
-<a href="https://github.com/Conper/BufferOverflow"><img src="https://github.com/Conper/Conper/blob/main/buof.png" alt="Buffer Overflow" width="40%"/></a>
-<br><i>Click on the image to go to the repository</i>
+  ### CTF Challenges
+  <a href="https://github.com/Conper/CTF-Challenges"><img src="https://github.com/Conper/Conper/blob/main/ctfchallenges.png" alt="CTF Challenges" width="50%"/></a>
+  <br><i>Click on the image to go to the repository</i>
+  
+  ### Buffer Overflow
+  <a href="https://github.com/Conper/BufferOverflow"><img src="https://github.com/Conper/Conper/blob/main/buof.png" alt="Buffer Overflow" width="50%"/></a>
+  <br><i>Click on the image to go to the repository</i>
+  
+  ### Opened-Ports
+  <a href="https://github.com/Conper/Opened-Ports"><img src="https://github.com/Conper/Conper/blob/main/oports.png" alt="Opened-Ports" width="75%"/></a>
+  <br><i>Click on the image to go to the repository</i>
+  
+  ### Tic Tac Toe for Android
+  <a href="https://github.com/Conper/TicTacToe-App"><img src="https://github.com/Conper/Conper/blob/main/tictactoe.gif" alt="TicTacToe Android" width="35%"/></a>
+  <br><i>Click on the image to go to the repository</i>
+  
+  ### 4 IN A ROW
+  <a href="https://github.com/Conper/4-in-a-row"><img src="https://user-images.githubusercontent.com/79358509/216830206-cea6d455-26cf-4a01-ba97-19cfeb8c71f7.gif" alt="4 IN A ROW" width="50%"/></a>
+  <br><i>Click on the image to go to the repository</i>
 
-### Opened-Ports
-<a href="https://github.com/Conper/Opened-Ports"><img src="https://github.com/Conper/Conper/blob/main/oports.png" alt="Opened-Ports" width="55%"/></a>
-<br><i>Click on the image to go to the repository</i>
-
-### Tic Tac Toe for Android
-<a href="https://github.com/Conper/TicTacToe-App">![game](https://github.com/Conper/Conper/blob/main/tictactoe.gif)</a>
-<br><i>Click on the image to go to the repository</i>
-
-### 4 IN A ROW
-<a href="https://github.com/Conper/4-in-a-row">![v1 1](https://user-images.githubusercontent.com/79358509/216830206-cea6d455-26cf-4a01-ba97-19cfeb8c71f7.gif)</a>
-<br><i>Click on the image to go to the repository</i>
+</div>
