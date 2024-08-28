@@ -8,7 +8,7 @@
 <div style="text-align: center;">
 
   ### CTF Challenges
-  <a href="https://github.com/Conper/CTF-Challenges"><img src="https://github.com/Conper/Conper/blob/main/ctfchallenges.jfif" alt="CTF Challenges" /></a>
+  <a href="https://github.com/Conper/CTF-Challenges"><img src="https://github.com/Conper/Conper/blob/main/ctfchallenges.jfif" alt="CTF Challenges" style="width: 50%; max-width: 600px;"/></a>
   <br><i>Click on the image to go to the repository</i>
   
   ### Buffer Overflow
