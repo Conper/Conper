@@ -8,11 +8,15 @@
 <div style="text-align: center;">
 
   ### CTF Challenges
-  <a href="https://github.com/Conper/CTF-Challenges"><img src="https://github.com/Conper/Conper/blob/main/ctfchallenges.jfif" alt="CTF Challenges"/></a>
+  <a href="https://github.com/Conper/CTF-Challenges"><img src="https://github.com/Conper/Conper/blob/main/ctfchallenges.jfif" alt="CTF Challenges" width=65% height=65%/></a>
+  <br><i>Click on the image to go to the repository</i>
+
+  ### CTF Machines
+  <a href="https://github.com/Conper/CTF-Machines"><img src="https://github.com/Conper/Conper/blob/main/ctfmachineslogo.png" alt="CTF Machines" width=65% height=65%/></a>
   <br><i>Click on the image to go to the repository</i>
 
   ### NetSysHub
-  <a href="https://github.com/Conper/NetSysHub"><img src="https://raw.githubusercontent.com/Conper/Conper/refs/heads/main/NetSysHub.png" alt="NetSysHub"/></a>
+  <a href="https://github.com/Conper/NetSysHub"><img src="https://raw.githubusercontent.com/Conper/Conper/refs/heads/main/NetSysHub.png" alt="NetSysHub" width=65% height=65%/></a>
   <br><i>Click on the image to go to the repository</i>
   
   ### Buffer Overflow
@@ -25,10 +29,6 @@
   
   ### Tic Tac Toe for Android
   <a href="https://github.com/Conper/TicTacToe-App"><img src="https://github.com/Conper/Conper/blob/main/tictactoe.gif" alt="TicTacToe Android"/></a>
-  <br><i>Click on the image to go to the repository</i>
-  
-  ### 4 IN A ROW
-  <a href="https://github.com/Conper/4-in-a-row"><img src="https://user-images.githubusercontent.com/79358509/216830206-cea6d455-26cf-4a01-ba97-19cfeb8c71f7.gif" alt="4 IN A ROW"/></a>
   <br><i>Click on the image to go to the repository</i>
 
 </div>
