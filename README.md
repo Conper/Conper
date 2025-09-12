@@ -1,7 +1,19 @@
 
-### Hello, I'm Conper.<br>
-### I'm currently a student. 💻<br>
-### I would like to one day work in the cybersecurity area. 👨‍💻💼
+# Hi, I'm Conper 👋
+
+I'm a student in **ASIR** (Administrative Systems and Networks). 💻
+I hope to build a career in **cybersecurity**, understanding systems and making them more secure. 👨‍💻💼
+
+### About Me
+I love **ethical hacking** and spend my time solving **CTFs** on **Hack The Box** and **HackMyVM**.  
+Lately, I've started learning **reverse engineering** to understand how programs work from the inside, how to exploit them ethically, and how to defend against malware. 🕵️‍♂️🔍
+
+### Skills & Interests
+- Ethical hacking & pentesting  
+- CTF challenges (HTB, HackMyVM)  
+- Reverse engineering (beginner)  
+- Networking & systems administration  
+- Always learning new things in cybersecurity  
 
 # <div align="center">My projects:</div>
 
